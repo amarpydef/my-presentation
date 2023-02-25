@@ -19,14 +19,12 @@
 }
 
 .btn{
-    background-color: #EFAC00;
+    background-color: #00efab;
     color: white;
     border: none;
-
     box-sizing: content-box;
 }
 .inputs::placeholder{
     color: #646464;
-
     opacity: 0.5;
 }
