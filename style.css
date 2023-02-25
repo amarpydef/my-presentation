@@ -11,8 +11,9 @@
     height: 50px;
     align-self: center;
     margin: 10px;
+    border-radius: 10px;
     border: 0.5px solid;
-    border-color: #878787;
+    border-color: #bababa;
     outline: none;
     padding-left: 10px;
 
