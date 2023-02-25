@@ -1,0 +1,32 @@
+.loginform{
+    text-align: center;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.forms{
+    width: 721px;
+    height: 50px;
+    align-self: center;
+    margin: 10px;
+    border: 0.5px solid;
+    border-color: #878787;
+    outline: none;
+    padding-left: 10px;
+
+}
+
+.btn{
+    background-color: #EFAC00;
+    color: white;
+    border: none;
+
+    box-sizing: content-box;
+}
+.inputs::placeholder{
+    color: #646464;
+
+    opacity: 0.5;
+}
